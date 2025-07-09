@@ -48,7 +48,7 @@ If you can read a `man` page, EchoPulse speaks your language.
 ## Who's behind this?
 
 <p align="center">
-  <img src="content/Lunaryx.png" alt="Lunaryx Logo" />
+  <img src="content/Lunaryx.png" alt="Lunaryx Logo" width="300"/>
 </p>
 
 **Lunaryx Studio** – aka me, a one-man dev army on a mission to build cool sh*t and maybe not go broke doing it.  
