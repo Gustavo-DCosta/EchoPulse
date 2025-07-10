@@ -6,12 +6,12 @@
 ---
 
 ## 📜 Table of Contents  
-- [What is EchoPulse?](##-what-is-echopulse)
-- [Why?](##-why)
-- [Who’s it for?](##-whos-it-for)
-- [Who's behind this?](##-whos-behind-this)
-- [Status](##-status)
-- [Wanna Contribute?](##-wanna-contribute)
+- [What is EchoPulse?](#-what-is-echopulse)
+- [Why?](#-why)
+- [Who’s it for?](#-whos-it-for)
+- [Who's behind this?](#-whos-behind-this)
+- [Status](#-status)
+- [Wanna Contribute?](#-wanna-contribute)
 
 ---
 
