@@ -6,12 +6,12 @@
 ---
 
 ## 📜 Table of Contents  
-- [What is EchoPulse?](#-what-is-echopulse)
-- [Why?](#-why)
-- [Who’s it for?](#-whos-it-for)
-- [Who's behind this?](#-whos-behind-this)
-- [Status](#-status)
-- [Wanna Contribute?](#-wanna-contribute)
+- [What is EchoPulse?](##-what-is-echopulse)
+- [Why?](##-why)
+- [Who’s it for?](##-whos-it-for)
+- [Who's behind this?](##-whos-behind-this)
+- [Status](##-status)
+- [Wanna Contribute?](##-wanna-contribute)
 
 ---
 
@@ -59,7 +59,7 @@ Lunaryx isn't a company. It's a **mindset**. A studio for ideas born from insomn
 ## 🚧 Status
 
 EchoPulse is in active development — early build, but already functional.  
-We’re cooking plugins, themes, and even a local-only mode for total air-gap comms. 🔒
+We’re cooking plugins, themes, and even a local-only mode for total air-gap comms. 
 
 ---
 
@@ -67,4 +67,4 @@ We’re cooking plugins, themes, and even a local-only mode for total air-gap co
 
 Got ideas? Want to test it? Found a bug? Want to throw some shade?  
 
-**Pull requests, issues, stars and memes — all welcome.** 💌
+**Pull requests, issues, stars and memes — all welcome.** 
