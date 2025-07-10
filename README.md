@@ -17,7 +17,7 @@
 
 ## What is EchoPulse?
 
-EchoPulse is a **CLI-native, end-to-end encrypted chat app** for devs, hackers, sysadmins, and rebels with a cause.  
+EchoPulse is a **CLI-native, encrypted chat app** for devs, hackers, sysadmins, and rebels with a cause.  
 Built with minimalism and **Golang zen** in mind, EchoPulse keeps things lightweight, fast, and deadly silent — no telemetry, no creepy tracking, no fluff.
 
 The server? Just a humble **message router**.  
